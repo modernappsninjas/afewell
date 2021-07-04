@@ -3,7 +3,7 @@
 ### Hugo Template Metadata
 title: "June21 Hackathon QA Provider Badge"
 date: "{{ .Date }}"
-draft: true
+draft: false
 # meta description
 description: "This document provides details to verify the June21 Hackathon QA Provider Badge was awarded by ModernApps Learning by VMware Tanzu"
 # course thumbnail
