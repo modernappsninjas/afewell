@@ -1,0 +1,39 @@
+# Member Grade Report for afewell for modernappsskills101_ms4043  
+   
+Member_Github_Account_Login: afewell  
+Member_Github_Account_ID 17549071  
+Course_Name: modernappsskills101_ms4043  
+Certificate_Request_Date: Fri Sep  3 16:01:21 UTC 2021  
+Course_URL: https://modernappsninja.github.io/modernappsskills101_ms4043/  
+   
+Course_Grade: Fail
+   
+---  
+#### modernappsskills101_ms4043 Cumulitive Summary of Test Results:  
+modernappsskills101_ms4043_Total_Question_Count: 3
+#####  
+modernappsskills101_ms4043_Correct_Response_Count: 3
+#####  
+modernappsskills101_ms4043_Incorrect_Response_Count: 0
+#####  
+modernappsskills101_ms4043_Percent_Correct: 100.00%
+#####  
+modernappsskills101_ms4043_Grade: Pass
+#####  
+modernappsskills101_ms4043_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/afewell/blob/main/static/userdata/courses/modernappsskills101_ms4043/grade_report.pr186.modernappsskills101_ms4043.md)"
+#####  
+#####  
+---  
+#### modernappsskills101_ms4043 Cumulitive Summary of Test Results:  
+modernappsskills101_ms4043_Total_Question_Count: 0  
+#####  
+modernappsskills101_ms4043_Correct_Response_Count: 0  
+#####  
+modernappsskills101_ms4043_Incorrect_Response_Count: 0 
+#####  
+modernappsskills101_ms4043_Percent_Correct: %  
+#####  
+modernappsskills101_ms4043_Grade: Fail  
+#####  
+modernappsskills101_ms4043_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/afewell/blob/main/static/userdata/courses/modernappsskills101_ms4043/grade_report.pr188.modernappsskills101_ms4043.md)"
+#####  
